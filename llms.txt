@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit b6582a54a92715892e9371256e298cbf4936cf2b
+> نور في قلبي ينادي طيفك
+> أشعر أن الروح تعانق روحك
+> بين صمت الليل أسمع نبضك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
